@@ -29,7 +29,7 @@ NearbyBite is a full-stack restaurant finder app that helps users discover nearb
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/e42-typeface-ai/iiit-kota-assign-harshitdohare
+   git clone https://github.com/harshitdohare/Nearby-Bite/
    ```
 
 2. Navigate to the project directory:
